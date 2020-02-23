@@ -1,0 +1,29 @@
+body{
+  background-color: lightblue;
+}
+.container2{
+  width: 60%;
+  margin: auto;
+
+}
+.q p{
+  background-color:#ff4d4d;
+  font-style: italic;
+  border: 3px black solid;
+  padding: 20px;
+}
+.container2 .q
+{
+  padding-bottom:20px;
+}
+
+.End{
+  padding-left:40%;
+  width:50%;
+}
+
+
+.End button:hover{
+	background:gold;
+	color:firebrick;
+}

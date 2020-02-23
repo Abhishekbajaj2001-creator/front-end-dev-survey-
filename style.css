@@ -1,0 +1,61 @@
+body{
+  background-color: lightblue;
+}
+.container{
+  width: 80%;
+  margin:auto;
+}
+.box-1{
+  background-color: navy;
+  
+  color: yellow;
+  border: 5px black solid;
+  text-align: center;
+}
+.box-1 p{
+  font-size: 12px;
+  padding-left: 90%;
+  color: brown ;
+}
+.para{
+  font-size: 15px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  padding-left: 10%;
+  margin:auto;
+    color: red;
+}
+.my-form{
+  color: Beige ;
+  margin-left: auto;
+}
+.my-form .form-group
+{
+  padding-bottom: 15px;
+}
+.my-form label{
+	display:block;
+}
+.my-form input[type="text"],input[type="tel"], .my-form textarea{
+  color:seagreen;
+	padding:8px;
+	width:50%;
+}
+
+.my-form{
+  float:left;
+  width:70%;
+}
+.start{
+  padding: 5%;
+  float:right:
+  width:30%;
+}
+
+.button:hover{
+	background:gold;
+	color:firebrick;
+}
+.start button:hover{
+	background:gold;
+	color:firebrick;
+}
